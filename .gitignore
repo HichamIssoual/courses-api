@@ -17,7 +17,6 @@ build/
 coverage/
 
 # 📥 Uploads (إذا كنت تخزن ملفات محملة)
-uploads/
 
 # 🛠️ System Files
 .DS_Store
