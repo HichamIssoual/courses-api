@@ -1,0 +1,47 @@
+# 🟢 Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+
+# 🔒 Logs
+logs/
+*.log
+log.txt
+
+# 📂 Build Output
+dist/
+build/
+coverage/
+
+# 📥 Uploads (إذا كنت تخزن ملفات محملة)
+uploads/
+
+# 🛠️ System Files
+.DS_Store
+Thumbs.db
+
+# 🔁 Cache
+.cache/
+tmp/
+temp/
+
+# 💻 IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🐳 Docker
+docker-compose.override.yml
+
+# 🔍 Testing
+jest-coverage/
+
+# ⚙️ Miscellaneous
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
